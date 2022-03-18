@@ -4,17 +4,17 @@
 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/TiagoAlmeida13/button-animado?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/TiagoAlmeida13/botao-animado?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TiagoAlmeida13/button-animado">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TiagoAlmeida13/botao-animado">
   
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoAlmeida13/button-animado">
+  <a href="https://github.com/TiagoAlmeida13/botao-animado/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TiagoAlmeida13/botao-animado">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/TiagoAlmeida13/button-animado/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/TiagoAlmeida13/button-animado?style=social">
+   <a href="https://github.com/TiagoAlmeida13/botao-animado/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/TiagoAlmeida13/botao-animado?style=social">
   </a>
 </p>
 
